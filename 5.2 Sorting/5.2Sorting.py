@@ -24,4 +24,4 @@ def sortedlinearsearch(v, t):
             return False
     return False
 flag = sortedlinearsearch(v, t)
-0902-2
+
