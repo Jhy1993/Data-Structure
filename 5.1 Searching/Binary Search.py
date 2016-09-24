@@ -9,11 +9,6 @@ def BinarySearch(s, v):
     low = 0
     high = L - 1
     while low <= high:
-        pass
-
-
-    pass
-
 
 if __name__ == '__main__':
     s = [3, 4, 6, 2, 5, 11]
